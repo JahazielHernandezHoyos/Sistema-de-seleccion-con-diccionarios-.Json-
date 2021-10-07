@@ -1,3 +1,4 @@
+#[20170136837, 'Juan', 'Moreno, Herrera', 88481595, 'ARQU', 4.4325, 'jm.herrera95']
 def Seleccion(info: dict):
     respuesta = []
     masAlto = 0
